@@ -1,6 +1,7 @@
-UsefulLibs
-==========
 1. Android
+==========
+
+
 	https://github.com/JStumpp/awesome-android
 
 	[NineOldAndroids][https://github.com/JakeWharton/NineOldAndroids]
@@ -45,7 +46,9 @@ UsefulLibs
 	https://github.com/jfeinstein10/SlidingMenu
 	https://github.com/TriggerTrap/SeekArc
 	https://github.com/gast-lib/gast-lib
+
 2. iOS
+==========
 	https://github.com/CocoaPods/Specs
 	https://github.com/realm/realm-cocoa
 	https://github.com/ankurp/Dollar.swift
