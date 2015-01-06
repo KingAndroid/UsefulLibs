@@ -1,6 +1,7 @@
 1. Android
 ==========
 ## Library Lists
+- https://plus.google.com/communities/100609058582053363304
 - https://github.com/JStumpp/awesome-android
 
 ## App Source
@@ -45,6 +46,11 @@
 - https://github.com/jfeinstein10/SlidingMenu
 - https://github.com/TriggerTrap/SeekArc
 - https://github.com/gast-lib/gast-lib
+- https://github.com/sakebook/Reachability
+- https://github.com/Malinskiy/SuperRecyclerView
+- https://github.com/BlueMor/Android-PullLayout
+- https://github.com/pedrovgs/DraggablePanel
+- https://github.com/kanytu/android-parallax-recyclerview
 
 2. iOS
 ==========
