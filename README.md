@@ -1,5 +1,8 @@
 1. Android
 ==========
+## ToolKit
+- http://www.kpbird.com/p/android-dev-tools.html
+
 ## Library Lists
 - https://plus.google.com/communities/100609058582053363304
 - https://github.com/JStumpp/awesome-android
