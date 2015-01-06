@@ -2,10 +2,10 @@
 ==========
 
 
-	https://github.com/JStumpp/awesome-android
+	[Android Library List](https://github.com/JStumpp/awesome-android)
 
-	[NineOldAndroids][https://github.com/JakeWharton/NineOldAndroids]
-	[ActionBarHelper][https://github.com/mbarrben/ActionBarHelper]
+	[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)
+	[ActionBarHelper](https://github.com/mbarrben/ActionBarHelper)
 	https://github.com/k9mail/k-9
 	https://github.com/ikew0ng/SwipeBackLayout
 	https://github.com/realm/realm-java
