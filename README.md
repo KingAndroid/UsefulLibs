@@ -77,3 +77,4 @@
 - https://github.com/BlueMor/DragLayout
 - https://github.com/noodlewerk/NWPusher
 - https://github.com/modocache/MDCSwipeToChoose
+- https://github.com/sachinkesiraju/UberKit
