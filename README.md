@@ -78,3 +78,4 @@
 - https://github.com/noodlewerk/NWPusher
 - https://github.com/modocache/MDCSwipeToChoose
 - https://github.com/sachinkesiraju/UberKit
+- https://github.com/iRareMedia/iCloudDocumentSync
