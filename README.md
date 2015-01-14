@@ -67,6 +67,10 @@
 
 2. iOS
 ==========
+## Blogs
+- http://wiki.akosma.com/IPhone_URL_Schemes#Apple_iPhone_Applications
+
+## Libraries
 - https://github.com/CocoaPods/Specs
 - https://github.com/realm/realm-cocoa
 - https://github.com/ankurp/Dollar.swift
@@ -79,3 +83,4 @@
 - https://github.com/modocache/MDCSwipeToChoose
 - https://github.com/sachinkesiraju/UberKit
 - https://github.com/iRareMedia/iCloudDocumentSync
+- https://github.com/EvgenyKarkan/iOSDevTools
