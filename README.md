@@ -2,10 +2,13 @@
 ==========
 ## ToolKit
 - http://www.kpbird.com/p/android-dev-tools.html
+- http://www.norio.be/android-feature-graphic-generator/
+- https://github.com/redwarp/9-Patch-Resizer
 
 ## Library Lists
 - https://plus.google.com/communities/100609058582053363304
 - https://github.com/JStumpp/awesome-android
+- https://android-arsenal.com/
 
 ## App Source
 - https://github.com/k9mail/k-9
@@ -63,7 +66,9 @@
 - https://github.com/BlueMor/Android-PullLayout
 - https://github.com/ikew0ng/SwipeBackLayout
 - https://github.com/pedrovgs/DraggablePanel
-
+- https://github.com/roomorama/AndroidCountryPicker
+- https://github.com/M66B/XPrivacy#features
+- https://github.com/cymcsg/UltimateAndroid
 
 2. iOS
 ==========
@@ -84,3 +89,4 @@
 - https://github.com/sachinkesiraju/UberKit
 - https://github.com/iRareMedia/iCloudDocumentSync
 - https://github.com/EvgenyKarkan/iOSDevTools
+- https://github.com/nicklockwood/CountryPicker
