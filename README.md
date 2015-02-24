@@ -102,3 +102,9 @@
 - https://github.com/iRareMedia/iCloudDocumentSync
 - https://github.com/EvgenyKarkan/iOSDevTools
 - https://github.com/nicklockwood/CountryPicker
+
+## Telegram App Source code
+- https://telegram.org/apps
+- https://github.com/overtake/telegram
+- https://github.com/DrKLO/Telegram
+- https://github.com/telegramdesktop/tdesktop
