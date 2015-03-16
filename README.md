@@ -16,6 +16,7 @@
 - https://github.com/k9mail/k-9
 - https://github.com/google/iosched
 - https://github.com/RandoApp/Rando-android
+- https://github.com/CyanogenMod/android_packages_apps_CMFileManager
 
 ## Theme
 - https://github.com/eluleci/FlatUI
@@ -25,12 +26,14 @@
 - https://github.com/navasmdc/MaterialDesignLibrary
 - https://github.com/balysv/material-ripple
 - https://github.com/ozodrukh/RippleDrawable
+- https://github.com/novoda/material-painter
 
 ## Library
 - https://github.com/realm/realm-java
 - https://github.com/cymcsg/UltimateAndroid
 - https://github.com/pardom/ActiveAndroid
 - https://github.com/excilys/androidannotations
+- https://github.com/SumiMakito/QuickKV
 
 - https://github.com/JoanZapata/android-iconify
 - https://github.com/SecUpwN/Android-IMSI-Catcher-Detector
@@ -48,6 +51,7 @@
 - https://github.com/daimajia/AndroidViewAnimations
 - https://github.com/JakeWharton/NineOldAndroids
 - https://github.com/premnirmal/Magnet
+- https://code.google.com/p/android-maps-extensions
 
 - https://github.com/ManuelPeinado/FadingActionBar
 - https://github.com/mbarrben/ActionBarHelper
@@ -59,6 +63,7 @@
 - https://github.com/marvinlabs/android-intents
 - https://github.com/nostra13/Android-Simple-Social-Sharing
 - https://github.com/ragunathjawahar/android-saripaar
+- https://github.com/throrin19/Android-Validator
 - https://github.com/lorensiuswlt/AndroidInstagram
 - https://github.com/3pillarlabs/socialauth-android
 - https://github.com/gast-lib/gast-lib
@@ -69,6 +74,7 @@
 - https://github.com/daimajia/NumberProgressBar
 - https://github.com/jpardogo/GoogleProgressBar
 
+- https://github.com/zhaozhentao/BooheeScrollView
 - https://github.com/Malinskiy/SuperRecyclerView
 - https://github.com/dommerq/SuperListview
 - https://github.com/ribot/easy-adapter
@@ -83,10 +89,20 @@
 - https://github.com/cymcsg/UltimateAndroid
 - https://github.com/iPaulPro/aFileChooser
 
+- https://github.com/inaka/TinyTask
+- https://github.com/pedrovgs/Lynx
+
+## NDK
+- https://code.google.com/p/jnaerator/
+- https://github.com/twall/jna
+- http://en.wikipedia.org/wiki/Java_Native_Access
+
 2. iOS
 ==========
 ## Blogs
 - http://wiki.akosma.com/IPhone_URL_Schemes#Apple_iPhone_Applications
+- https://github.com/EvgenyKarkan/iOSDevTools
+- https://github.com/vsouza/awesome-ios
 
 ## Libraries
 - https://github.com/CocoaPods/Specs
@@ -109,3 +125,17 @@
 - https://github.com/overtake/telegram
 - https://github.com/DrKLO/Telegram
 - https://github.com/telegramdesktop/tdesktop
+
+3. GOLang
+## Libraries
+- https://github.com/avelino/awesome-go
+- https://github.com/mlbright/forecast
+- https://github.com/go-mgo/mgo
+
+## Samples
+- https://github.com/SimonWaldherr/golang-examples
+- https://github.com/miekg/gobook
+- https://github.com/go-lang-plugin-org/go-lang-idea-plugin
+
+4. PhoneGap
+- https://github.com/phonegap/phonegap-docs
