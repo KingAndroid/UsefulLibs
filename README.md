@@ -1,5 +1,7 @@
 1. Android
 ==========
+- https://github.com/SecUpwN/Android-IMSI-Catcher-Detector
+
 ## ToolKit
 - http://www.kpbird.com/p/android-dev-tools.html
 - http://www.norio.be/android-feature-graphic-generator/
@@ -11,6 +13,10 @@
 - https://android-arsenal.com/
 - https://github.com/ashishb/android-security-awesome
 - http://www.appbrain.com/stats/libraries/dev
+- https://github.com/denley/PreferenceInjector
+
+- https://github.com/wasabeef/awesome-android-libraries
+- https://github.com/wasabeef/awesome-android-ui
 
 ## App Source
 - https://github.com/k9mail/k-9
@@ -91,6 +97,7 @@
 
 - https://github.com/inaka/TinyTask
 - https://github.com/pedrovgs/Lynx
+- https://github.com/zxing/zxing
 
 ## NDK
 - https://code.google.com/p/jnaerator/
@@ -132,6 +139,9 @@
 - https://github.com/avelino/awesome-go
 - https://github.com/mlbright/forecast
 - https://github.com/go-mgo/mgo
+- https://github.com/go-martini/martini
+- https://github.com/journeyapps/zxing-android-embedded
+- https://github.com/revel/revel
 
 ## Samples
 - https://github.com/SimonWaldherr/golang-examples
