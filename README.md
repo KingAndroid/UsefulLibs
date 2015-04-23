@@ -98,11 +98,15 @@
 - https://github.com/inaka/TinyTask
 - https://github.com/pedrovgs/Lynx
 - https://github.com/zxing/zxing
+- https://github.com/orhanobut/logger
 
 ## NDK
 - https://code.google.com/p/jnaerator/
 - https://github.com/twall/jna
 - http://en.wikipedia.org/wiki/Java_Native_Access
+
+##BT
+- https://github.com/akexorcist/Android-BluetoothSPPLibrary
 
 2. iOS
 ==========
