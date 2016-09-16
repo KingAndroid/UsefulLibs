@@ -4,6 +4,7 @@ iOS
 - http://wiki.akosma.com/IPhone_URL_Schemes#Apple_iPhone_Applications
 - https://github.com/EvgenyKarkan/iOSDevTools
 - https://github.com/vsouza/awesome-ios
+- https://gitlab.com/TridentX/awesome-ios
 
 ## Libraries
 - https://github.com/CocoaPods/Specs
@@ -20,3 +21,13 @@ iOS
 - https://github.com/iRareMedia/iCloudDocumentSync
 - https://github.com/EvgenyKarkan/iOSDevTools
 - https://github.com/nicklockwood/CountryPicker
+- https://github.com/CosmicMind/Material
+- https://github.com/uhub/awesome-objective-c
+
+## Passbook Style Views
+- https://github.com/gleue/TGLStackedViewController
+- https://github.com/CanTheAlmighty/PassbookLayout
+- https://github.com/3lvis/CardStack
+
+## OSX
+- https://gist.github.com/galambalazs/7e4bb6ecb6c89372b15b

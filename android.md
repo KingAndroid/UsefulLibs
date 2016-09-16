@@ -23,8 +23,13 @@
 - https://github.com/google/iosched
 - https://github.com/RandoApp/Rando-android
 - https://github.com/CyanogenMod/android_packages_apps_CMFileManager
+- https://github.com/frogermcs/InstaMaterial
 
 ## Theme
+- https://github.com/lightSky/Awesome-MaterialDesign
+- https://github.com/lgvalle/Material-Animations
+- https://github.com/rey5137/material
+
 - https://github.com/eluleci/FlatUI
 - https://github.com/Prototik/HoloEverywhere
 
