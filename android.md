@@ -9,14 +9,9 @@
 
 ## Library Lists
 - https://plus.google.com/communities/100609058582053363304
-- https://github.com/JStumpp/awesome-android
 - https://android-arsenal.com/
-- https://github.com/ashishb/android-security-awesome
 - http://www.appbrain.com/stats/libraries/dev
 - https://github.com/denley/PreferenceInjector
-
-- https://github.com/wasabeef/awesome-android-libraries
-- https://github.com/wasabeef/awesome-android-ui
 
 ## App Source
 - https://github.com/k9mail/k-9
@@ -26,7 +21,6 @@
 - https://github.com/frogermcs/InstaMaterial
 
 ## Theme
-- https://github.com/lightSky/Awesome-MaterialDesign
 - https://github.com/lgvalle/Material-Animations
 - https://github.com/rey5137/material
 

@@ -1,14 +1,26 @@
+## Awesome Dev Resource
+# Android
+- https://github.com/JStumpp/awesome-android
+- https://github.com/ashishb/android-security-awesome
+- https://github.com/wasabeef/awesome-android-libraries
+- https://github.com/wasabeef/awesome-android-ui
+- https://github.com/lightSky/Awesome-MaterialDesign
+# iOS
+- https://github.com/vsouza/awesome-ios
+- https://gitlab.com/TridentX/awesome-ios
+- https://github.com/uhub/awesome-objective-c
+# Nativescript
+- https://github.com/jbristowe/awesome-nativescript
+
 ## NDK
 - https://code.google.com/p/jnaerator/
 - https://github.com/twall/jna
 - http://en.wikipedia.org/wiki/Java_Native_Access
 
-##BT
+## BT
 - https://github.com/akexorcist/Android-BluetoothSPPLibrary
 - https://github.com/gilbutITbook?tab=repositories
 - https://mvnrepository.com/artifact/com.neenbedankt.gradle.plugins
-
-
 
 ## Telegram App Source code
 - https://telegram.org/apps
