@@ -1,15 +1,15 @@
 ## Awesome Dev Resource
-# Android
+#Android
 - https://github.com/JStumpp/awesome-android
 - https://github.com/ashishb/android-security-awesome
 - https://github.com/wasabeef/awesome-android-libraries
 - https://github.com/wasabeef/awesome-android-ui
 - https://github.com/lightSky/Awesome-MaterialDesign
-# iOS
+#iOS
 - https://github.com/vsouza/awesome-ios
 - https://gitlab.com/TridentX/awesome-ios
 - https://github.com/uhub/awesome-objective-c
-# Nativescript
+#Nativescript
 - https://github.com/jbristowe/awesome-nativescript
 
 ## NDK
