@@ -1,6 +1,10 @@
 1. Android
 ==========
 - https://github.com/SecUpwN/Android-IMSI-Catcher-Detector
+- https://github.com/lucasr/twoway-view
+- https://github.com/dandar3?tab=repositories
+- https://github.com/i5ting/socks-maven-repository-
+- http://mvn.sibext.com/
 
 ## ToolKit
 - http://www.kpbird.com/p/android-dev-tools.html
